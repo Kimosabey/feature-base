@@ -7,7 +7,7 @@
 ## 📖 Overview
 FeatureBase computes and caches features in Redis so models get consistent, low-latency feature values at inference time, with the same definitions used for training and serving.
 
-> Part of my Senior Hybrid Engineer 2026 portfolio (`#33`). Built on the "Antigravity" model — logic, state, and UI run locally in Docker while heavy reasoning is offloaded to cloud APIs, so the whole system runs on modest hardware.
+> Part of my  . Built on the "" model — logic, state, and UI run locally in Docker while heavy reasoning is offloaded to cloud APIs, so the whole system runs on modest hardware.
 
 ## 🚀 Quick Start
 ```bash

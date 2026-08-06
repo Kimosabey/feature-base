@@ -11,4 +11,4 @@ Train/serve consistency — making sure the feature a model sees online matches 
 - **Node.js** — application runtime / service layer.
 
 ### "How does it fit the rest of your portfolio?"
-It follows my "Antigravity" model — local logic/state/UI, cloud reasoning where it earns its cost — and shares the documentation and deployment conventions used across all my projects (#33).
+It follows my "" model — local logic/state/UI, cloud reasoning where it earns its cost — and shares the documentation and deployment conventions used across all my projects (#33).

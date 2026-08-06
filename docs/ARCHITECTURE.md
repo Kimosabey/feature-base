@@ -28,7 +28,7 @@ graph LR
 
 ## Decision Log
 - **Why this stack:** **Redis** — in-memory store / cache / queue; **Node.js** — application runtime / service layer.
-- **Antigravity constraint:** run logic/state/UI locally; offload heavy reasoning to cloud APIs; target modest hardware.
+- ** constraint:** run logic/state/UI locally; offload heavy reasoning to cloud APIs; target modest hardware.
 
 ## Concept Deep Dive
 Train/serve consistency — making sure the feature a model sees online matches how it was trained.
